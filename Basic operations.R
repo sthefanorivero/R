@@ -35,7 +35,7 @@ mayor_de_edad <- edades[1] >= 18
 7# Enunciado: Utiliza el operador %in% para verificar si el valor 30 está presente
 #en el vector edades .
 
-esta_ presente <- 30 %in% edades
+esta_presente <- 30 %in% edades
 
 #8 Enunciado: Compara si el doble de numero es mayor que edades[3] .
 
@@ -57,10 +57,3 @@ print(resultado)
 verdadero <- TRUE
 resultado <-  !verdadero
 print(resultado)
-
-
-
-
-
-
-
